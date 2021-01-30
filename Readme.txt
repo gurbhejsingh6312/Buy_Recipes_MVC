@@ -17,13 +17,13 @@ Update-Database Identity -Context Buy_Recipes_IdentityContext
 7 if you login as admin  from the following credentials will be able to see the Customers,  
 Payments  and Recipes Links. Onnly admin can Add delete and update recipes
 
-User : adminuser@recipes.com
+User : admingurbhej@recipes.com
 Password: 1qaz2wsX@
 
 8. Also you can login with the following credentials to visit the site as a customer
  Can View and buy recipes
 
- User : jack@recipes.com
+ User : Gurbhej@recipes.com
 Password: 1qaz2wsX@
 
 
